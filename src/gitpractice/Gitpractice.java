@@ -20,6 +20,7 @@ public class Gitpractice {
         System.out.println("this is a change");
         System.out.println("hello faggot");
         System.out.println("24601");
+        System.out.println("branch test");
     }
     
 }
