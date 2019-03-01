@@ -21,6 +21,7 @@ public class Gitpractice {
         System.out.println("hello faggot");
         System.out.println("24601");
         System.out.println("branch test");
+        System.out.println("branch test 2");
     }
     
 }
