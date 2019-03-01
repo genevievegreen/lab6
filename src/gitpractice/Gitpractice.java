@@ -18,6 +18,7 @@ public class Gitpractice {
         // TODO code application logic here
         System.out.println("test");
         System.out.println("hello faggot");
+        System.out.println("24601");
     }
     
 }
